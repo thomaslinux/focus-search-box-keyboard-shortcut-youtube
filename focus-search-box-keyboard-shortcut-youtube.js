@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      thomaslinux
-// @description 16/01/2026 10:33:34
+// @description 16/01/2026 11:19:00
 // ==/UserScript==
 document.addEventListener('keydown', function(event) {
     if (event.key === ':') {

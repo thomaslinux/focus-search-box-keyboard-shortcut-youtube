@@ -5,7 +5,7 @@
 // @match       *://m.youtube.com/*
 // @match       *://www.youtube-nocookie.com/*
 // @grant       none
-// @version     20260120.15.04
+// @version     20260120.16.52
 // @author      thomaslinux
 // @description 16/01/2026 11:19:00
 // ==/UserScript==

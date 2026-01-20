@@ -13,7 +13,8 @@ document.addEventListener('keydown', function(event) {
     if (event.key === ':') {
         const input = document.querySelector('.ytSearchboxComponentInput');
         if (input) {
-            input.focus();
+            input.click();
+            input.dispatchEvent(new Event('change')); // alternative to input.focus compatible with the site functions associated to a click
             event.preventDefault();
         }
     }

@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name        : to focus the search box
 // @namespace   Violentmonkey Scripts
-// @match       *youtube.com/*
+// @match               *://www.youtube.com/*
+// @match               *://m.youtube.com/*
+// @match               *://www.youtube-nocookie.com/*
 // @grant       none
-// @version     1.0
+// @version     20260120.14.48
 // @author      thomaslinux
 // @description 16/01/2026 11:19:00
 // ==/UserScript==

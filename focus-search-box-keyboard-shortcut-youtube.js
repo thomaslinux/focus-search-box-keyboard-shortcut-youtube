@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        : to focus the search box
 // @namespace   Violentmonkey Scripts
-// @match       youtube.com/*
+// @match       *youtube.com/*
 // @grant       none
 // @version     1.0
 // @author      thomaslinux
